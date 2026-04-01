@@ -1,0 +1,75 @@
+{
+  "position": 1,
+  "title": "The Solitaire Fitness International",
+  "place_id": "ChIJNzUda4nP5zsRj4AY9Z9LJVE",
+  "data_id": "0x3be7cf896b1d3537:0x51254b9ff518808f",
+  "data_cid": "5847162841594364047",
+  "reviews_link": "https://serpapi.com/search.json?data_id=0x3be7cf896b1d3537%3A0x51254b9ff518808f&engine=google_maps_reviews&hl=en",
+  "photos_link": "https://serpapi.com/search.json?data_id=0x3be7cf896b1d3537%3A0x51254b9ff518808f&engine=google_maps_photos&hl=en",
+  "gps_coordinates": {
+    "latitude": 19.0815135,
+    "longitude": 72.84585609999999
+  },
+  "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNzUda4nP5zsRj4AY9Z9LJVE",
+  "provider_id": "/g/11sgcwcq5l",
+  "rating": 4.7,
+  "reviews": 307,
+  "type": "Gym",
+  "types": [
+    "Gym"
+  ],
+  "type_id": "gym",
+  "type_ids": [
+    "gym"
+  ],
+  "address": "Mhada Gala No. 6/41, Old, opp. Lions Club Hospital, Anand Nagar, Santacruz East, Mumbai, Maharashtra 400055, India",
+  "open_state": "Open · Closes 1 AM",
+  "hours": "Open · Closes 1 AM",
+  "operating_hours": {
+    "wednesday": "5 AM–1 AM",
+    "thursday": "5 AM–1 AM",
+    "friday": "5 AM–1 AM",
+    "saturday": "5 AM–1 AM",
+    "sunday": "8 AM–8 PM",
+    "monday": "5 AM–1 AM",
+    "tuesday": "5 AM–1 AM"
+  },
+  "phone": "+91 91375 60864",
+  "extensions": [
+    {
+      "service_options": [
+        "Onsite services"
+      ]
+    },
+    {
+      "offerings": [
+        "Sauna"
+      ]
+    },
+    {
+      "amenities": [
+        "Restroom",
+        "Wi-Fi",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "planning": [
+        "Membership required"
+      ]
+    },
+    {
+      "payments": [
+        "Credit cards",
+        "Debit cards",
+        "NFC mobile payments"
+      ]
+    }
+  ],
+  "service_options": {
+    "onsite_services": true
+  },
+  "user_review": "\"The gym is super clean, well-equipped and has a very motivating vibe.\"",
+  "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqYi0W0dzKu5-quc3SxSw2rAoH0jrc-R_xwwOdRx-3snX1R5hkttFPj8Yc8DwBw0QWBHcMOjy3QE38IUF0sA5RZC3p7eASlIk8_p7c3Iy-oy2pmfkuaC526VOMLx9Sbvoe8RTabzA=w204-h92-k-no",
+  "serpapi_thumbnail": "https://serpapi.com/images/url/9vEUK3icBcFbcoIwFADQFV1JE9HYGT_ia2Bahxp8_zAYUyggiSQYcINdg7vxnNd_bq02n55X5WSQKZVVsjWyEaq2srYDoW5epg0IA8ZjwZ45eT_9oQO6Pr9aH-6tIHEXO9wwFaCiEcCTzrnoyjsgpj5-cD8vrV39FPQk6MLNHNocZoFYR0VPNktCw90KGebz85zosWRxFZY00WNBwh5Uj_Xtt2zTuY9H-2j93U3iy0NJyrfp5cmmDqMh5BMMJdTqDV5ERM0"
+}

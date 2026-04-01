@@ -1,0 +1,24 @@
+{
+  "position": 1,
+  "rating": 4.9,
+  "reviews": 409,
+  "reviews_original": "(409)",
+  "description": "\"He arrived on time, fixed everything properly, and worked very neatly.\"",
+  "lsig": "AB86z5XmidzZ2rNfC1HDP1EmM9hk",
+  "links": {
+    "directions": "https://www.google.com/maps/dir//Plumber,+Shop+no+7+gulistan+bldg+near+St+Lawrence+shool+marol+Marol+village,+59,+Andheri+East,+Mumbai,+Maharashtra+400059,+India/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3be7cfc3d77b65d9:0xc68c740da331bf96?sa=X&ved=2ahUKEwjn5pjTqMyTAxWRSTABHQFYJloQ48ADegQIIhAA&hl=en&gl=us"
+  },
+  "place_id": "14306937718170566550",
+  "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=14306937718170566550&q=plumbers+in+mumbai",
+  "provider_id": "/g/11fml23_th",
+  "gps_coordinates": {
+    "latitude": 19.114996,
+    "longitude": 72.87821
+  },
+  "title": "Plumber",
+  "type": "Plumber",
+  "years_in_business": "5+ years in business",
+  "address": "Mumbai, Maharashtra, India",
+  "phone": "+91 98924 76305",
+  "hours": "Open · Closes 10 PM"
+}

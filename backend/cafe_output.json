@@ -1,0 +1,64 @@
+[
+  {
+    "position": 1,
+    "rating": 4.6,
+    "reviews": 768,
+    "reviews_original": "(768)",
+    "description": "\"Great service, beautiful decor and ambiance and delicious food!\"",
+    "lsig": "AB86z5VCaXfcXLQO3USJlN8IUVcO",
+    "thumbnail": "https://serpapi.com/searches/69cce3ea532a170dc7228746/images/dLnl7RMGIxnzjJvMuX2csLwWwZdZDlV9EY5du6DlOiQ.jpeg",
+    "place_id": "17142991781156260197",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=17142991781156260197&q=cafe+delhi",
+    "provider_id": "/g/1261gg1yf",
+    "gps_coordinates": {
+      "latitude": 40.88391,
+      "longitude": -74.47842
+    },
+    "title": "Caffe Delhi",
+    "type": "Indian",
+    "address": "Denville, NJ",
+    "hours": "Closed · Opens 11:30 AM"
+  },
+  {
+    "position": 2,
+    "rating": 4.4,
+    "reviews": 392,
+    "reviews_original": "(392)",
+    "price": "$10–20",
+    "description": "\"Great food, excellent service, and a nice atmosphere.\"",
+    "lsig": "AB86z5X1NRSg0JKnvdgAYejcNvOF",
+    "thumbnail": "https://serpapi.com/searches/69cce3ea532a170dc7228746/images/YuyK01f_fgn9Uxdla9ulF9F8dbX74cBZO4wRJaKomdk.jpeg",
+    "place_id": "7669193158436262905",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=7669193158436262905&q=cafe+delhi",
+    "provider_id": "/g/1tfv14_b",
+    "gps_coordinates": {
+      "latitude": 42.654358,
+      "longitude": -84.528366
+    },
+    "title": "Delhi Cafe",
+    "type": "Restaurant",
+    "address": "Holt, MI",
+    "hours": "Closed · Opens 11 AM"
+  },
+  {
+    "position": 3,
+    "rating": 4.9,
+    "reviews": 1100,
+    "reviews_original": "(1.1K)",
+    "price": "$10–20",
+    "description": "\"The food is delicious, fast and friendly staff, with a wonderful atmosphere.\"",
+    "lsig": "AB86z5Wnlviq6DT7Ea20SwqRNaEK",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoWPhXym6nuh6smHjZf_b05GbJTcerBGV4MMxehK86XJcUydsTjZSJKXHE4w4haV7KGl-WRWtUIgVyDQs3-dzfCoXb6P_5TXdpNh6ndLO3PkQ_lN9WZL1KZAqjG6Em8IFmHaogIRrzcazgN=w90-h90-n-k-no-l75",
+    "place_id": "6894514542405404712",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=6894514542405404712&q=cafe+delhi",
+    "provider_id": "/g/11vpbwl299",
+    "gps_coordinates": {
+      "latitude": 41.13651,
+      "longitude": -80.6651
+    },
+    "title": "Delhi cafe Indian cuisine & bar",
+    "type": "Indian",
+    "address": "Youngstown, OH",
+    "hours": "Closed · Opens 11 AM"
+  }
+]

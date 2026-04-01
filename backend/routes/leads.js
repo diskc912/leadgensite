@@ -4,27 +4,7 @@ import Lead from '../models/Lead.js';
 
 const router = express.Router();
 
-function calculateLeadScore(business) {
-  let score = 0;
-  
-  // 1. Missing Infrastructure (Massive Opportunity)
-  if (!business.website) score += 40;
-  if (!business.phone) score += 20;
 
-  // 2. Reputation Management Opportunities
-  if (business.reviewCount === 0 || !business.rating) {
-    score += 30; // Ghost Town
-  } else if (business.rating && business.rating <= 3.5) {
-    score += 20; // Bad Reputation
-  }
-
-  // 3. The "Giant Penalizer"
-  if (business.rating && business.rating >= 4.3 && business.reviewCount > 100) {
-    score -= 40; // established, rich giants drop to the bottom
-  }
-
-  return score;
-}
 
 router.get('/', async (req, res) => {
   try {
@@ -40,7 +20,7 @@ router.get('/', async (req, res) => {
 
     // 1. CACHE CHECK
     // Fetch ALL existing leads we've ever cached for this query
-    const cache = await Lead.find({ queryKey }).sort('-score');
+    const cache = await Lead.find({ queryKey });
     
     // If the database cache ALREADY has enough data to perfectly fulfill this page request...
     if (cache.length >= offset + limit) {
@@ -59,8 +39,8 @@ router.get('/', async (req, res) => {
     const fetchEnd = offset + limit; 
     
     for (let start = offset; start < fetchEnd; start += 20) {
-      console.log(`[API SCRAPE] SerpApi Google Local page starting at ${start}...`);
-      const searchUrl = `https://serpapi.com/search.json?engine=google_local&q=${niche}+in+${city}&start=${start}&api_key=${SERPAPI_KEY}`;
+      console.log(`[API SCRAPE] SerpApi Google Maps page starting at ${start}...`);
+      const searchUrl = `https://serpapi.com/search.json?engine=google_maps&q=${niche}+in+${city}&start=${start}&api_key=${SERPAPI_KEY}`;
       
       try {
         const response = await axios.get(searchUrl);
@@ -88,14 +68,12 @@ router.get('/', async (req, res) => {
         queryKey,
         name: biz.title || 'Unknown Business',
         address: biz.address,
-        // Regex strips Google's invisible \u200e unicode and weird chars
-        phone: biz.phone ? biz.phone.replace(/[^\d\+\(\)\s\-]/g, '').trim() : null,
-        website: biz.website, 
+        phone: biz.phone ? String(biz.phone).trim() : null,
+        website: biz.website || (biz.links && biz.links.website) || null,
         rating: biz.rating,
         reviewCount: biz.reviews,
         thumbnail: biz.thumbnail || null, // UI Business Image
       };
-      leadData.score = calculateLeadScore(leadData);
       return leadData;
     });
 
@@ -103,7 +81,6 @@ router.get('/', async (req, res) => {
     const savedLeads = await Lead.insertMany(freshLeads);
     console.log(`[API CALL] Fetched and Saved ${savedLeads.length} NEW leads.`);
     
-    savedLeads.sort((a, b) => b.score - a.score);
     return res.json({ source: 'live_api', count: savedLeads.length, leads: savedLeads, totalCached: cache.length + savedLeads.length });
 
   } catch (error) {

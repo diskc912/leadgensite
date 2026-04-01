@@ -15,7 +15,6 @@ const LeadSchema = new mongoose.Schema({
   emailContacts: { type: [String], default: [] },
   
   // Lead Scoring & Outreach
-  score: { type: Number, default: 0 }, // 0 to 100
   aiOutreachDraft: String, // AI Generated personalized message
   
   status: { type: String, enum: ['New', 'Contacted', 'Closed'], default: 'New' }

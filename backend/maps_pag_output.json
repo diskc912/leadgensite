@@ -1,0 +1,519 @@
+[
+  {
+    "position": 1,
+    "title": "Triveni Terrace Cafe",
+    "place_id": "ChIJgYWp8Cz9DDkRHGRazZ5BlZg",
+    "data_id": "0x390cfd2cf0a98581:0x9895419ecd5a641c",
+    "data_cid": "10994766215600825372",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd2cf0a98581%3A0x9895419ecd5a641c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd2cf0a98581%3A0x9895419ecd5a641c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 28.6272268,
+      "longitude": 77.2324197
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgYWp8Cz9DDkRHGRazZ5BlZg",
+    "provider_id": "/g/11bcf2spp7",
+    "rating": 4.4,
+    "reviews": 6534,
+    "price": "₹400–600",
+    "extracted_price": 400,
+    "type": "Cafe",
+    "types": [
+      "Cafe",
+      "Coffee shop",
+      "North Indian restaurant",
+      "Restaurant"
+    ],
+    "type_id": "cafe",
+    "type_ids": [
+      "cafe",
+      "coffee_shop",
+      "north_indian_restaurant",
+      "restaurant"
+    ],
+    "address": "205, Tansen Marg, Opp. FICCI Auditorium, Todermal Road Area, Mandi House, New Delhi, Delhi 110001, India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+      "wednesday": "10 AM–9:30 PM",
+      "thursday": "10 AM–9:30 PM",
+      "friday": "10 AM–9:30 PM",
+      "saturday": "10 AM–9:30 PM",
+      "sunday": "10 AM–9:30 PM",
+      "monday": "10 AM–9:30 PM",
+      "tuesday": "10 AM–9:30 PM"
+    },
+    "phone": "+91 99715 66904",
+    "website": "https://redcedarhospitality.com/",
+    "description": "Quaint North Indian cafe with a terrace. Small, light-filled cafe with a terrace & a selection of North Indian snacks, curries & thalis.",
+    "extensions": [
+      {
+        "service_options": [
+          "Outdoor seating",
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "highlights": [
+          "Great coffee",
+          "Great dessert",
+          "Great tea selection",
+          "Live performances",
+          "Rooftop seating"
+        ]
+      },
+      {
+        "popular_for": [
+          "Breakfast",
+          "Lunch",
+          "Dinner",
+          "Solo dining",
+          "Good for working on laptop"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Coffee",
+          "Healthy options",
+          "Organic dishes",
+          "Quick bite",
+          "Small plates",
+          "Vegan options",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Breakfast",
+          "Brunch",
+          "Lunch",
+          "Dinner",
+          "Dessert",
+          "Seating",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Quiet",
+          "Romantic",
+          "Trendy",
+          "Upscale"
+        ]
+      },
+      {
+        "crowd": [
+          "College students",
+          "Groups",
+          "Tourists"
+        ]
+      },
+      {
+        "planning": [
+          "Brunch reservations recommended",
+          "Lunch reservations recommended",
+          "Accepts reservations",
+          "Usually a wait"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot",
+          "Paid street parking",
+          "Usually plenty of parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiY2Yyc3BwNxgAOgMI8A0%3D&g2lbs=AIBNGdUIOoXxyjYLGPtdyTU4X-ijF0xx7zupRpyN48hu0JRd-oN5M_Igx2Cjn91Kg0zAJNfxyNHczYkRwGFmg-00YtMfyabKEA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=FuTMad2ANcmRm9cPi6K3uAY&ei=FuTMad2ANcmRm9cPi6K3uAY&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"Fresh ingredients and calm space ideal for a laid back experience.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq1b4vUaqNKpjj7Jsjobm7aSS_BfgwXstOOcXAOl-ulk7omdSPffr-mmIpyaXMH8VzkwmEz4v3W0e2Fa2uG9rooOb4xuQu9Zq7tA0uUbAH451Dv89N7vEoaPWCWscF1J1Nj_O4Y=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dFtjfnicBcFRboIwGADgE1Vs7VJZsoe66ZhG6kIUthdTugIByg-0hc377RDexu-7_1fO9fY5CNpqtSgBylZ7q0cFndOdWygwQdlbpCyyAY8ufNYDzul0lkN86Oua7W0NuWEySa6bopwz64RQGRct8m3DwPwkp6IYkTEf_Z_MjtH6cmtms73RaZUuNdlJ4t_DEUDk9Nd_-vB7YI4v_TnnEX3Cb9M6jNm0BXlKX1OrdniP4_oq6NfLjAlBVUhQgzp4AHjlRT8"
+  },
+  {
+    "position": 2,
+    "title": "Cafe Lota",
+    "place_id": "ChIJP_oFxSfjDDkRG_HG59ndSus",
+    "data_id": "0x390ce327c505fa3f:0xeb4addd9e7c6f11b",
+    "data_cid": "16954607675155869979",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce327c505fa3f%3A0xeb4addd9e7c6f11b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390ce327c505fa3f%3A0xeb4addd9e7c6f11b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 28.6136111,
+      "longitude": 77.24249999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP_oFxSfjDDkRG_HG59ndSus",
+    "provider_id": "/g/1pp2xb0fh",
+    "rating": 4.4,
+    "reviews": 4527,
+    "price": "$$",
+    "extracted_price": null,
+    "type": "Cafe",
+    "types": [
+      "Cafe",
+      "Breakfast restaurant",
+      "Coffee shop",
+      "North Indian restaurant",
+      "Restaurant",
+      "South Indian restaurant"
+    ],
+    "type_id": "cafe",
+    "type_ids": [
+      "cafe",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "north_indian_restaurant",
+      "restaurant",
+      "south_indian_restaurant"
+    ],
+    "address": "Gate No. 5, National Crafts Museum, Bhairon Marg, Pragati Maidan, New Delhi, Delhi 110001, India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+      "wednesday": "8 AM–9:30 PM",
+      "thursday": "8 AM–9:30 PM",
+      "friday": "8 AM–9:30 PM",
+      "saturday": "8 AM–9:30 PM",
+      "sunday": "8 AM–9:30 PM",
+      "monday": "8 AM–9:30 PM",
+      "tuesday": "8 AM–9:30 PM"
+    },
+    "phone": "+91 78389 60787",
+    "website": "https://redcedarhospitality.com/",
+    "description": "Indian cafe on a crafts museum complex. This stylish cafe in a crafts museum offers modern, regional Indian dishes & cookery classes.",
+    "extensions": [
+      {
+        "service_options": [
+          "Outdoor seating",
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "highlights": [
+          "Great coffee",
+          "Great dessert",
+          "Great tea selection",
+          "Sports"
+        ]
+      },
+      {
+        "popular_for": [
+          "Breakfast",
+          "Lunch",
+          "Dinner",
+          "Solo dining",
+          "Good for working on laptop"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Alcohol",
+          "Cocktails",
+          "Coffee",
+          "Happy hour drinks",
+          "Healthy options",
+          "Organic dishes",
+          "Quick bite",
+          "Small plates",
+          "Vegan options",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Breakfast",
+          "Brunch",
+          "Lunch",
+          "Dinner",
+          "Catering",
+          "Dessert",
+          "Seating",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Quiet",
+          "Romantic",
+          "Trendy",
+          "Upscale"
+        ]
+      },
+      {
+        "crowd": [
+          "College students",
+          "Family-friendly",
+          "Groups",
+          "Tourists"
+        ]
+      },
+      {
+        "planning": [
+          "Brunch reservations recommended",
+          "Lunch reservations recommended",
+          "Dinner reservations recommended",
+          "Accepts reservations",
+          "Usually a wait"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids",
+          "Kids' menu"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "Paid parking lot",
+          "Usually plenty of parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMXBwMnhiMGZoGAA6AwjwDQ%3D%3D&g2lbs=AIBNGdVVeS8OSvr2CecklnM9CzSsq33HZPwnaPktDtzZcEBqFneyIjrzz2y398w7P2Rm0MciTnJCPHiTC3wwz80gGr_6_7LsFw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=FuTMad2ANcmRm9cPi6K3uAY&ei=FuTMad2ANcmRm9cPi6K3uAY&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"Delicious food, great coffee and it’s right next to the crafts museum!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqP68nAB-_2SW7fErhQ4ym9tFlXABcYRR7Wa8ySqK2gKEoiKFp4nJ5g26KlhHvvVmgsQ3KTsxKdLOsaLP0NiNDpDSN9Fuf4womoYcbrqyeI9OBHVUzF6uftx5hZlGYNRaX88do-TA=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xCMv93icBcFbcoIwFADQFUUsII_O9COMUmocVLAo_XFoDIljyAUSRLrBrsHdeM7zXxjT6nfLksKZcQAu2aBZT0EZpsyMQmPxViOqkbZwUuCRdTsvUDhCZzs_-vWqF3t3akITyxOOaJll_rEKprwjNicruJK4ddV6wW2PSJHc70XD9d4hB_0gl81WV5vdPL2my3aZp2E81O4IDZT0t-8m9hVuo6T4_ou9oTaPhfiRn2WaVacguAA64I_xzfGRCG10QwpeQURFQA"
+  },
+  {
+    "position": 3,
+    "title": "AMA Cafe | Majnu Ka Tilla",
+    "place_id": "ChIJG__5b8X9DDkRsw7vuYiquZU",
+    "data_id": "0x390cfdc56ff9ff1b:0x95b9aa88b9ef0eb3",
+    "data_cid": "10788841886554459827",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfdc56ff9ff1b%3A0x95b9aa88b9ef0eb3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfdc56ff9ff1b%3A0x95b9aa88b9ef0eb3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 28.7026021,
+      "longitude": 77.22838469999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG__5b8X9DDkRsw7vuYiquZU",
+    "provider_id": "/g/11b7rk6tc_",
+    "rating": 4.5,
+    "reviews": 29818,
+    "price": "$$",
+    "extracted_price": null,
+    "type": "Cafe",
+    "types": [
+      "Cafe",
+      "Bakery",
+      "Breakfast restaurant",
+      "Coffee shop",
+      "Fast food restaurant",
+      "Italian restaurant"
+    ],
+    "type_id": "cafe",
+    "type_ids": [
+      "cafe",
+      "bakery",
+      "breakfast_restaurant",
+      "coffee_shop",
+      "fast_food_restaurant",
+      "italian_restaurant"
+    ],
+    "address": "House no. 6, 1st Floor, New Aruna Colony, Majnu-ka-tilla, New Aruna Nagar, New Delhi, Delhi, 110054, India",
+    "open_state": "Open · Closes 10:30 PM",
+    "hours": "Open · Closes 10:30 PM",
+    "operating_hours": {
+      "wednesday": "7:30 AM–10:30 PM",
+      "thursday": "7:30 AM–10:30 PM",
+      "friday": "7:30 AM–10:30 PM",
+      "saturday": "7:30 AM–10:30 PM",
+      "sunday": "7:30 AM–10:30 PM",
+      "monday": "7:30 AM–10:30 PM",
+      "tuesday": "7:30 AM–10:30 PM"
+    },
+    "phone": "+91 84489 94259",
+    "website": "http://www.amacafe.co/",
+    "extensions": [
+      {
+        "service_options": [
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "highlights": [
+          "Great coffee",
+          "Great dessert",
+          "Great tea selection"
+        ]
+      },
+      {
+        "popular_for": [
+          "Breakfast",
+          "Lunch",
+          "Dinner",
+          "Solo dining",
+          "Good for working on laptop"
+        ]
+      },
+      {
+        "offerings": [
+          "Coffee",
+          "Healthy options",
+          "Quick bite",
+          "Small plates",
+          "Vegan options",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Breakfast",
+          "Brunch",
+          "Lunch",
+          "Dinner",
+          "Dessert",
+          "Seating",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Quiet",
+          "Romantic",
+          "Trendy",
+          "Upscale"
+        ]
+      },
+      {
+        "crowd": [
+          "College students",
+          "Family-friendly",
+          "Groups",
+          "Tourists"
+        ]
+      },
+      {
+        "planning": [
+          "Brunch reservations recommended",
+          "Lunch reservations recommended",
+          "Dinner reservations recommended",
+          "Usually a wait"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids"
+        ]
+      },
+      {
+        "parking": [
+          "Usually difficult to find a space"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiN3JrNnRjXxgAOgMI8A0%3D&g2lbs=AIBNGdVk_dGVCXxp3YJTXjuLbVX61DjnrxY2QVZ3xX2e1rSVke6aF7N09oT6y8gSeGKMVGzudRo7nf1O_ZHopk4ohzfxzSlZPQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=FuTMad2ANcmRm9cPi6K3uAY&ei=FuTMad2ANcmRm9cPi6K3uAY&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"The staff is incredibly welcoming, and the coffee is always spot on.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqBQZblITXzvE3A2QGA4wAcxxsI3teZcILeuOK-N6NQsQZRR9N1T7pmeAqUn2pxbhkoxmvnb7nsbnAUyQcxPKMdHJIJrcgNToa_FTo-EQwz2JOiAVWbkr5ry44m6QhITjOaR7c=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/k2RdTXicBcHbDoIgAADQLyLnJa22HmirxErD0WW-NCEmpYIJJfV9_UR_0zm_rzCm0zPHaYQ_qpSqGv7UvGdKGi7NiKnWqToNmAbagfERDvyxwAVtEDl_XksfengNgwEyazXyDS8Y2vJntgFpmGKNizyfpi6JupbDx0F6naWiVrZ9SRpJTSU8vDGz-83uGico6VmVElVeVkSBJR4-XpLd4PFE637cv4OgDbFA5J6VecTmg-tPgJh6oAZS_QHqE0VY"
+  }
+]
