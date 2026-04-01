@@ -72,7 +72,7 @@ router.get('/', async (req, res) => {
         website: biz.website || (biz.links && biz.links.website) || null,
         rating: biz.rating,
         reviewCount: biz.reviews,
-        thumbnail: biz.thumbnail || null, // UI Business Image
+        thumbnail: biz.thumbnail || biz.serpapi_thumbnail || null, // Improved caching
       };
       return leadData;
     });
